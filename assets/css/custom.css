@@ -1,0 +1,75 @@
+	.title{
+		font-size:16px;
+		margin-left: 10px;
+		
+	}
+	.panel-heading{padding:6px 0px 6px 12px !important;}
+	.form-control{
+		border: 1px solid #0c7cd547 !important;
+		-webkit-box-shadow: inset 0 0px 0 #fff !important; 
+		box-shadow: inset 0 0px 0 #fff !important; 
+		padding: 20px !important;
+		margin-top: -12px;
+		color:#000 !important;
+	}
+
+	.bcolor{
+		border: 1px solid red !important;
+	}
+	.green_bcolor{
+		border: 1px solid green !important;
+	}
+	.label{
+		margin-left: 18px;
+		font-size: 13px; 
+		background: #fff;
+		color:#2196f3b8;
+		padding: 0px 3px 0px 3px;
+	}
+	.label_val{
+		color:red;
+	}
+
+	.green_label_val{
+		color:green;
+	}
+
+	.panel-heading{
+		border-bottom: 2px solid #ddd !important;
+	}
+	.panel{
+		border: 2px solid #ddd;
+	}
+	.badge{
+		font-size: 18px;
+		border-radius: 25%;
+		width:27px;
+		height: 27px;
+		margin-top: -4px;
+		background: #2196f3b8 !important;
+		color:#fff !important;
+	}
+	body{
+		background: #ccc;
+	}
+
+	#input-photo{
+		opacity: 0;
+	}
+
+	.uploadbox{
+		border: 1px solid #0c7cd547;
+		height: 43px;
+		margin-top: -13px;
+	}
+	.imagelabel{
+		margin-top: 0px;
+	}
+
+	.phonecount{
+		padding: 0px 2px 0px 2px;
+		border-radius: 10%; 
+		/*font-size:20px;*/
+		border:1px solid red;
+		background: #fff;
+	}
