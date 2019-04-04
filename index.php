@@ -20,8 +20,8 @@
 				<!-- Display result -->
 				<div id="result"></div>
 
-				<div class="panel panel-warning">
-					<div class="panel-heading">Validation Text</div>
+				<div class="panel panel-primary">
+					<div class="panel-heading">Form Validation</div>
 					<div class="panel-body">
 						<form action="controller.php" method="post" id="saveForm">
 							<div class="row">
@@ -48,7 +48,7 @@
 								</div>
 								<div class="col-md-12">
 									<a href="" class="btn btn-default pull-left">Reset</a>
-									<input type="submit" name="submit" class="btn btn-danger pull-right">
+									<input type="submit" name="submit" class="btn btn-primary pull-right">
 								</div>
 							</div>
 						</form>

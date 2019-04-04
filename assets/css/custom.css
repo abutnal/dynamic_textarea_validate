@@ -3,7 +3,7 @@
 		margin-left: 10px;
 		
 	}
-	.panel-heading{padding:6px 0px 6px 12px !important;}
+	.panel-heading{padding:6px 0px 6px 12px !important; font-size: 16px;}
 	.form-control{
 		border: 1px solid #0c7cd547 !important;
 		-webkit-box-shadow: inset 0 0px 0 #fff !important; 
@@ -35,7 +35,7 @@
 	}
 
 	.panel-heading{
-		border-bottom: 2px solid #ddd !important;
+		border-bottom: 5px solid #ccc !important;
 	}
 	.panel{
 		border: 2px solid #ddd;
